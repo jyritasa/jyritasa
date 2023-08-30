@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @jyritasa
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning C++, QML, Qt, Javascript, React
-- 📫 How to reach me jyri.tasala@gmail.com
+- Flutter Developer
+- www.jyritasala.com
